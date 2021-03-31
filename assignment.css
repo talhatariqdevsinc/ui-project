@@ -105,11 +105,12 @@
 
 .slider {
   position: relative;
-	background-image: url('file:///home/dev/Desktop/flex/images/slider-image-1.png');
+	background-image: url('file:///home/dev/Office/ui-project/images/slider-image-1.png');
   height:75vh;
 	background-size: cover;
   background-size: 100%;
   background-repeat: no-repeat;
+  width: 100%;
 }
 .slider h1{
 	position: absolute;
